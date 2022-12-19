@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "824780534860",
+    "project_id": "fast-inventory-fi-d0cf8",
+    "storage_bucket": "fast-inventory-fi-d0cf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824780534860:android:f838e557b9ee747cd670e9",
+        "android_client_info": {
+          "package_name": "com.fastinventory.fastinventoryfi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824780534860-hqmkomragpjan4hbiqqbvt0ldcf8bppq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiSghXvmfGtgfFkxJplTmqV318-I0WFLY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824780534860-hqmkomragpjan4hbiqqbvt0ldcf8bppq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

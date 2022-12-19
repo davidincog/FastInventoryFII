@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/icon_guardar"
+        android:icon="@drawable/ic_guardar"
+        android:title="guardar registro"
+        app:showAsAction="always"
+        ></item>
+    <item
+        android:id="@+id/icon_actualizar"
+        android:icon="@drawable/ic_actualizar"
+        android:title="aactualizar registro"
+        app:showAsAction="always"
+        ></item>
+    <item
+        android:id="@+id/icon_eliminar"
+        android:icon="@drawable/ic_eliminar"
+        android:title="eliminar registro"
+        app:showAsAction="always"
+        ></item>
+    <item
+        android:id="@+id/icon_inicio"
+        android:icon="@drawable/ic_inicio"
+        android:title="regresar al inicio"
+        app:showAsAction="always"
+        ></item>
+
+
+
+
+</menu>
